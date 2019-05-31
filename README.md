@@ -9,8 +9,6 @@ This is a continuation of ngx-popover (https://github.com/pleerock/ngx-popover).
 
 see [DEMO](http://plnkr.co/edit/tmGQ43m3OGhn8uoAYWua?p=preview).
 
-![angular 2 popover](https://raw.githubusercontent.com/pleerock/ngx-popover/master/resources/popover-example.png)
-
 ## Installation
 
 1. Install npm module:
